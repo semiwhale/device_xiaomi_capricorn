@@ -6,8 +6,6 @@ TARGET_BOOT_ANIMATION_RES := 1080
 
 # GApps
 TARGET_ARCH := arm64
-TARGET_DENSITY := xxhdpi
-TARGET_INCLUDE_ARCORE := true
 
 PRODUCT_NAME := aosp_capricorn
 PRODUCT_DEVICE := capricorn
