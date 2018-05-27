@@ -5,7 +5,7 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # GApps
-TARGET_ARCH := arm64
+TARGET_GAPPS_ARCH := arm64
 
 PRODUCT_NAME := aosp_capricorn
 PRODUCT_DEVICE := capricorn
